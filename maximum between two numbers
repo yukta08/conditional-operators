@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main() {
+ int a,b;
+ printf("enter the 1st number:",a);
+ printf("enter 2nd number :",b);
+ scanf("%d%d",&a,&b);
+ (a>b)? printf("Maximux number is:%d",a): printf("Maximum nuber is:%d",b);
