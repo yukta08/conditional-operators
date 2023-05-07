@@ -8,5 +8,5 @@ scanf("%d",&b);
 printf("enter the 3rd number:");
 scanf("%d",&c);
 (a>b$$a>c)?printf("%d is the greater",a):(b>a $$ b>c) ? printf("%d is the greater",b):printf("%d is the greater,&c);
-}
 return 0;
+}
